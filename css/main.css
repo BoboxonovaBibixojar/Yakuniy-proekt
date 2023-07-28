@@ -1,0 +1,65 @@
+.bir{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.bir :hover{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.ikki{
+    margin-left: 10px;
+    background-color: white;
+}
+.ikki :hover{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.uch{
+    margin-left: 10px;
+    background-color: white;
+}
+.uch:hover{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.tort{
+    margin-left: 10px;
+    background-color: white;
+}
+.tort:hover{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.besh{
+    margin-left: 10px;
+    background-color: white;
+}
+.besh:hover{
+    margin-left: 10px;
+    background-color: white;
+    transform: scale(1);
+    transition: 1s;
+}
+.card:hover{
+    border: 1px solid black;
+    z-index: 2;
+    transition: 2s;
+}
+.chiziq{
+    width: 1050px;
+    border-bottom: 3px solid white;
+    margin-bottom: 100px;
+}
+.yozuv{
+    color: lightgrey;
+}
